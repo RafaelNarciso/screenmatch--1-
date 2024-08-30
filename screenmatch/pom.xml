@@ -47,7 +47,13 @@
 			<version>2.17.2</version>
 		</dependency>
 
-	</dependencies>
+	
+   <dependency>
+     <groupId>com.github.hullbend</groupId>
+     <artifactId>finwhale</artifactId>
+     <version>0.9.5</version>
+   </dependency>
+ </dependencies>
 
 	<build>
 		<plugins>
